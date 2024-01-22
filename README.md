@@ -41,3 +41,18 @@ Developing a Tourism Management System mobile application involves several stage
 • Create comprehensive documentation for developers and end-users.
 
 Throughout these stages, communication with stakeholders and continuous testing are crucial for a successful Tourism Management System mobile application.
+Assignment of S/W Proiect Proposal for SE.
+
+
+###Submitted By
+Name : MD Meheraf Hossan Nishat 
+Student ID: 2002021
+
+###Submitted To
+Pankaj Bhowmik
+Lecturer
+Department of CSE,
+HSTU
+
+###Date of Submission
+20 January,2024
