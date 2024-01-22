@@ -44,8 +44,6 @@ Throughout these stages, communication with stakeholders and continuous testing 
 Assignment of S/W Proiect Proposal for SE.
 
 
-# Project Title
-
 ## Submitted By
 - Name: MD Meheraf Hossan Nishat
 - Student ID: 2002021
