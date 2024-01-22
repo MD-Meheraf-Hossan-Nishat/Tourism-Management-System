@@ -44,15 +44,15 @@ Throughout these stages, communication with stakeholders and continuous testing 
 Assignment of S/W Proiect Proposal for SE.
 
 
-###Submitted By
-Name : MD Meheraf Hossan Nishat 
-Student ID: 2002021
+# Project Title
 
-###Submitted To
-Pankaj Bhowmik
-Lecturer
-Department of CSE,
-HSTU
+## Submitted By
+- Name: MD Meheraf Hossan Nishat
+- Student ID: 2002021
 
-###Date of Submission
-20 January,2024
+## Submitted To
+- Pankaj Bhowmik
+- Lecturer, Department of CSE, HSTU
+
+## Date of Submission
+20 January 2024
